@@ -8,6 +8,9 @@
 
 import UIKit
 
+//Unos comentarios
+//Comentario numero dos
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var txtTotalSinPropina: UITextField!
